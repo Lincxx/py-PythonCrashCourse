@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb86cc1-dc42-4646-b8ad-953099c326ad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4 workingwithlists/dimensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5 ifstatements/banned_users.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5 ifstatements/cars.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5 ifstatements/exercises/5-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5 ifstatements/exercises/5-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5 ifstatements/magic_number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch5 ifstatements/toppings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,28 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dimensions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch4 workingwithlists/dimensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4-13.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch4 workingwithlists/exercises/4-13.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,12 +34,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/variables/errors.py" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/variables/exercises/name.py" />
-        <option value="$PROJECT_DIR$/variables/apostrophe" />
-        <option value="$PROJECT_DIR$/variables/exercises/2-1.py" />
-        <option value="$PROJECT_DIR$/variables/exercises/2-2.py" />
         <option value="$PROJECT_DIR$/variables/exercises/2-3.py" />
         <option value="$PROJECT_DIR$/variables/exercises/2-4.py" />
         <option value="$PROJECT_DIR$/variables/exercises/2-5.py" />
@@ -102,6 +79,12 @@
         <option value="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-12.py" />
         <option value="$PROJECT_DIR$/ch4 workingwithlists/dimensions.py" />
         <option value="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-13.py" />
+        <option value="$PROJECT_DIR$/ch5 ifstatements/cars.py" />
+        <option value="$PROJECT_DIR$/ch5 ifstatements/toppings.py" />
+        <option value="$PROJECT_DIR$/ch5 ifstatements/magic_number.py" />
+        <option value="$PROJECT_DIR$/ch5 ifstatements/banned_users.py" />
+        <option value="$PROJECT_DIR$/ch5 ifstatements/exercises/5-1.py" />
+        <option value="$PROJECT_DIR$/ch5 ifstatements/exercises/5-2.py" />
       </list>
     </option>
   </component>
@@ -148,7 +131,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch4 workingwithlists" />
+              <option name="myItemId" value="ch5 ifstatements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,7 +145,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch4 workingwithlists" />
+              <option name="myItemId" value="ch5 ifstatements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -197,92 +180,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4-13">
-    <configuration default="false" name="4-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5-2">
+    <configuration default="false" name="toppings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4 workingwithlists/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5 ifstatements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCC" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5 ifstatements/toppings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="4-11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="magic_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4 workingwithlists/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5 ifstatements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCC" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5 ifstatements/magic_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="4-12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="banned_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4 workingwithlists/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5 ifstatements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCC" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5 ifstatements/banned_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="dimensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="5-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4 workingwithlists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5 ifstatements/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCC" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4 workingwithlists/dimensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5 ifstatements/exercises/5-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="4-13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="5-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch4 workingwithlists/exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch5 ifstatements/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonCC" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch4 workingwithlists/exercises/4-13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch5 ifstatements/exercises/5-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,19 +336,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4-10" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4-11" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4-12" />
-      <item index="3" class="java.lang.String" itemvalue="Python.dimensions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4-13" />
+      <item index="0" class="java.lang.String" itemvalue="Python.toppings" />
+      <item index="1" class="java.lang.String" itemvalue="Python.magic_number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.banned_users" />
+      <item index="3" class="java.lang.String" itemvalue="Python.5-1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5-2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4-13" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dimensions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4-12" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4-11" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4-10" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5-2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.5-1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.banned_users" />
+        <item index="3" class="java.lang.String" itemvalue="Python.magic_number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.toppings" />
       </list>
     </recent_temporary>
   </component>
@@ -388,10 +371,10 @@
   <component name="ToolWindowManager">
     <frame x="164" y="0" width="1643" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13644978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13644978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33041576" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33041576" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -416,24 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch3 lists/exercises/3-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variables/errors.py" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/variables/apostrophe" />
-    <entry file="file://$PROJECT_DIR$/variables/exercises/2-1.py" />
-    <entry file="file://$PROJECT_DIR$/variables/exercises/2-2.py" />
     <entry file="file://$PROJECT_DIR$/variables/exercises/2-3.py" />
     <entry file="file://$PROJECT_DIR$/variables/exercises/2-4.py" />
     <entry file="file://$PROJECT_DIR$/variables/exercises/2-5.py" />
@@ -730,6 +695,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5 ifstatements/cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5 ifstatements/toppings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5 ifstatements/magic_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="62" lean-forward="true" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5 ifstatements/banned_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5 ifstatements/exercises/5-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch5 ifstatements/exercises/5-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding />
         </state>
       </provider>
